@@ -5,10 +5,10 @@
  Environment: Just Python 3.7
  
  
- What to do before you run it: Change the year, level, and state in the ACSAPI.py
+ What to do before you run it: Change the year, level, and state in the ACS_API.py
  
  
- How to run it: Just run ACSAPI.py using any of your Python IDE or command prompt.
+ How to run it: Just run ACS_API.py using any of your Python IDE or command prompt.
  
  
  What will be the output: A folder including all the ACS variables separated by their sequence number.
